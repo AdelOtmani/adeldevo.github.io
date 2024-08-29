@@ -6,3 +6,20 @@ body{
     margin: 0;
     color: aliceblue;
 }
+
+body .page{
+
+}
+
+/* Navigation bar */
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: black;
+    padding: 10px 0px;
+
+}
+/* End of navigation bar */
