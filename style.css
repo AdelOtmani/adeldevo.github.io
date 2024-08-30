@@ -23,7 +23,16 @@ nav{
 
 }
 /* End of navigation bar */
- nav .onglets{
+nav .onglets{
     display: flex;
     flex-wrap: wrap;
- }
+    margin: 10px 10px;
+}
+nav .onglets a{
+    margin-right: 20px;
+}
+
+h1 {
+    display: flex;
+    margin: 10px;
+}
