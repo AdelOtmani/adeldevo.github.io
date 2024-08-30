@@ -23,3 +23,7 @@ nav{
 
 }
 /* End of navigation bar */
+ nav .onglets{
+    display: flex;
+    flex-wrap: wrap;
+ }
