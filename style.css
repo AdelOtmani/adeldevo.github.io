@@ -6,11 +6,6 @@ body{
     margin: 0;
     color: aliceblue;
 }
-
-body .page{
-    margin: 20px 80px;
-}
-
 /* Navigation bar */
 nav{
     display: flex;
