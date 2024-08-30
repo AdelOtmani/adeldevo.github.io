@@ -32,12 +32,12 @@ header{
     color: black;
     /*background:url();*/
 }
+header .sections img{
+    width: 100px;
+    height: 100px;
+}
 header h1 p{
     display: flex;
     margin: 10px;
     padding: 150px;
-}
-img {
-    width: 100px;
-    height: 100px;
 }
