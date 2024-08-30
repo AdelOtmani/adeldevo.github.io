@@ -29,8 +29,10 @@ nav .onglets a{
 
 header{
     margin: 5px 40px;
+    color: black;
     /*background:url();*/
 }
+
 
 header h1 p{
     display: flex;
