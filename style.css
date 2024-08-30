@@ -32,7 +32,7 @@ header{
     color: black;
     /*background:url();*/
 }
-header .sections img{
+header .sections a{
     width: 100px;
     height: 100px;
 }
