@@ -33,7 +33,7 @@ header{
     /*background:url();*/
 }
 header .sections a img{
-    width: 100px;
+    width: 50%;
     height: 100px;
 }
 header h1 p{
